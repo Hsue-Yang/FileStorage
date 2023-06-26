@@ -1,0 +1,14 @@
+{
+  "firstname": "Michael",
+  "gender": true,
+  "height": 180,
+  "email": "michael841218@gmail.com",
+  "city": {
+    "contact address": "Taipei",
+    "id address": "Kaoshiung"
+  },
+  "phone": {
+    "mobile": "0988-529-127"
+  },
+  "cars": ["BENZ", "PORSHCHE", "AUDI", "MASERATI", "Ferrari", "ETC.."]
+}
